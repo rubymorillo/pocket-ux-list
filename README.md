@@ -65,4 +65,4 @@ A small, but formidable, list of UX-related resources that I've personally used 
 
 ---
 
-List compiled by [Stephanie Morillo](stephaniemorillo.co). Found it useful? Consider making a [small donation](https://cash.app/$StephanieMorillo). 😊
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co). Found it useful? Consider making a [small donation](https://cash.app/$StephanieMorillo). 😊
