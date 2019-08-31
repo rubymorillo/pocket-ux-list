@@ -1,5 +1,5 @@
 # The Pocket UX List 🗂
-A small, but formidable, list of UX-related resources that I've personally used and like. Created for people interested in learning more about various UX concepts. 
+A small, but formidable, list of UX-related resources for people interested in learning more about various UX concepts. Tested and tried by Stephanie Morillo.
 
 ---
 
@@ -19,6 +19,7 @@ A small, but formidable, list of UX-related resources that I've personally used 
 - [UX Night School Workbook](https://www.uxnightschool.com/workbook)
 - [Usability.gov Templates](https://www.usability.gov/how-to-and-tools/resources/templates.html)
 - [Content Templates from GatherContent](https://gathercontent.com/resource/templates)
+- [_UI Audit_ (Free Chapter & Product Strategy Worksheets](https://uibreakfast.com/audit/) (**Note**: This is gated; scroll to the bottom of the page and submit an email address to receive the free content.)
 
 ### Continued Learning 👩🏽‍💻
 
@@ -31,6 +32,7 @@ A small, but formidable, list of UX-related resources that I've personally used 
 - [The Open Design Kit](http://opendesignkit.org/)
 - [18F's Content Guide](https://content-guide.18f.gov/)
 - [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
+- [#WOCinTech Chat Stock Photos (Free)](https://www.flickr.com/photos/wocintechchat)
 
 ## Paid Resources 💳
 ### Books
@@ -43,6 +45,7 @@ A small, but formidable, list of UX-related resources that I've personally used 
 - [_A Practical Guide to Information Architecture_](https://uxmastery.com/practical-ia/) by Donna Spencer. (**ebook, information architecture**)
 - [_Content Strategy Toolkit_](https://www.amazon.com/Content-Strategy-Toolkit-Guidelines-Templates/dp/0134105109/ref=sr_1_1?crid=3JNP0146K6QWW&keywords=content+strategy+toolkit+by+meghan+casey&qid=1567268132&s=gateway&sprefix=content+strategy+meghan%2Caps%2C167&sr=8-1) by Meghan Casey. (**paperback, ebook, content strategy**)
 - [_Observing the User Experience_](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695/ref=sr_1_2?crid=1YF02KOI4VHXA&keywords=observing+the+user+experience&qid=1567269048&s=books&sprefix=observing+the%2Cstripbooks%2C167&sr=1-2) by Elizabeth Goodman, PhD. (**paperback, ebook, user research**)
+- [The UI Audit](https://gumroad.com/uibreakfast#adTQ) by Jane Portman. (**ebook, website audit, UI design, user experience**)
 - [How to Design a Chatbot Script](https://gumroad.com/l/conversationdesign) by Hillary Black. (**ebook, UX writing, chatbots, content design**)
 
 ### Templates and Worksheets 📑
