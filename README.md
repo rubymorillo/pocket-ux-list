@@ -1,5 +1,5 @@
 # The Pocket UX List 🗂
-A small, but formidable, list of UX-related resources that I've used and like. Created for people interested in learning more about various UX concepts. 
+A small, but formidable, list of UX-related resources that I've personally used and like. Created for people interested in learning more about various UX concepts. 
 
 ---
 
@@ -27,7 +27,7 @@ A small, but formidable, list of UX-related resources that I've used and like. C
 
 ### Style Guides & More 🎨
 
-- [Web Content Accessibility Guidelines (WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) by W3C
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) by W3C
 - [The Open Design Kit](http://opendesignkit.org/)
 - [18F's Content Guide](https://content-guide.18f.gov/)
 - [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
