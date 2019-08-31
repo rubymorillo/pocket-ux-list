@@ -1,5 +1,5 @@
 # The Pocket UX List 🗂
-A small, but formidable, list of UX-related resources that I've used and like. Created for people interested in various UX concepts. 
+A small, but formidable, list of UX-related resources that I've used and like. Created for people interested in learning more about various UX concepts. 
 
 ---
 
