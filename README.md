@@ -62,3 +62,7 @@ A small, but formidable, list of UX-related resources that I've personally used 
 - [Validately](https://validately.com/) for moderated _and_ unmoderated testing
 - [Balsamiq](https://balsamiq.com/) for lo-fi wireframes
 - [Figma](https://www.figma.com/wireframe-tool/) for wireframing and collaboration
+
+---
+
+List compiled by [Stephanie Morillo](stephaniemorillo.co). Found it useful? Consider making a [small donation](https://cash.app/$StephanieMorillo). 😊
