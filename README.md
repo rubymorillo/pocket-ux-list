@@ -19,7 +19,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [UX Night School Workbook](https://www.uxnightschool.com/workbook)
 - [Usability.gov Templates](https://www.usability.gov/how-to-and-tools/resources/templates.html)
 - [Content Templates from GatherContent](https://gathercontent.com/resource/templates)
-- [UI Audit (Free Chapter & Product Strategy Worksheets](https://uibreakfast.com/audit/) (**Note**: This is gated; scroll to the bottom of the page and submit an email address to receive the free content.)
+- [UI Audit (Free Chapter & Product Strategy Worksheets)](https://uibreakfast.com/audit/) (**Note**: This is gated; scroll to the bottom of the page and submit an email address to receive the free content.)
 
 ### Continued Learning 👩🏽‍💻
 
