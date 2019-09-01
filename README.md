@@ -1,5 +1,5 @@
 # The Pocket UX List 🗂
-A small, but formidable, list of UX-related resources for people interested in learning more about various UX concepts. Tested and tried by Stephanie Morillo.
+A small, but formidable, list of UX-related resources for people interested in learning more about various UX concepts.
 
 ---
 
