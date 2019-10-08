@@ -11,6 +11,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [Intercom on Jobs-to-be-Done](https://www.intercom.com/books/jobs-to-be-done). (**gated ebook, product design**)
 - [_Content Delivery_](https://books.gathercontent.com/content-delivery) by Liam King. (**gated ebook, content strategy**)
 - [Interaction Design Foundation books](https://www.interaction-design.org/literature/book/overview) (**online book, human-computer interaction, user experience design, interaction design**)
+- [UX Feedback Collection Guidebook](https://usable.tools/guidebook/)
 - [UserTesting.com ebooks](https://www.usertesting.com/resources/ebooks) (**ebooks, user research, usability testing**)
 - [InVision ebooks](https://www.designbetter.co/books) (**ebooks, product design, interaction design**)
 
@@ -25,7 +26,6 @@ A small, but formidable, list of UX-related resources for people interested in l
 
 - [UX Writing Email Course](https://course.uxwritinghub.com/free_course)
 - [Principles of UX Design Course](https://www.invisionapp.com/ecourses/principles-of-ux-design)
-- [UX Feedback Collection Guidebook](https://usable.tools/guidebook/)
 
 ### Style Guides & More 🎨
 
