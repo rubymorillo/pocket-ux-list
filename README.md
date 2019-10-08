@@ -25,6 +25,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 
 - [UX Writing Email Course](https://course.uxwritinghub.com/free_course)
 - [Principles of UX Design Course](https://www.invisionapp.com/ecourses/principles-of-ux-design)
+- [UX Feedback Collection Guidebook](https://usable.tools/guidebook/)
 
 ### Style Guides & More 🎨
 
