@@ -69,4 +69,4 @@ A small, but formidable, list of UX-related resources for people interested in l
 
 ---
 
-List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co). Found it useful? Check out the [Pocket Data 101](https://github.com/rubymorillo/pocket-data-101-list).
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co). Found it useful? Check out the [Pocket Data 101 List](https://github.com/rubymorillo/pocket-data-101-list).
