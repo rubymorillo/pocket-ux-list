@@ -38,6 +38,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 ## Paid Resources 💳
 ### Books
 
+- [_Just Enough Research: 2nd Edition_](https://abookapart.com/products/just-enough-research) by Erika Hall. (**paperback**, **user research**)
 - [_Ruined by Design: How Designers Destroyed the World and What We Can Do to Fix It_](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World/dp/1090532083/ref=sr_1_1?crid=3IIEU095CIBC8&keywords=ruined+by+design&qid=1567269105&s=books&sprefix=ruined+by%2Cstripbooks%2C160&sr=1-1) by Mike Monteiro. (**paperback**, **ebook**, [**zine**](https://www.ruinedby.design/zine), **design**, **ethics**)
 - [_The Design of Everyday Things_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Donald Norman. (**paperback, ebook, product design, interaction design**)
 - [_Don't Make Me Think_](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?crid=1CU705SAUABPQ&keywords=don%27t+make+me+think&qid=1567267632&s=books&sprefix=don%27t+make+me+th%2Cstripbooks%2C167&sr=1-1) by Steve Krug. (**paperback, ebook, usability testing**)
