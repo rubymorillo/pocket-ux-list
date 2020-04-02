@@ -27,13 +27,14 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [UX Writing Email Course](https://course.uxwritinghub.com/free_course)
 - [Principles of UX Design Course](https://www.invisionapp.com/ecourses/principles-of-ux-design)
 
-### Style Guides & More 🎨
+### Style Guides, Images, & More 🎨
 
+- [#WOCinTech Chat Stock Photos (Free)](https://www.flickr.com/photos/wocintechchat)
+- [Black Illustrations Image Pack (Free or Paid)](https://www.blackillustrations.com)
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) by W3C
 - [The Open Design Kit](http://opendesignkit.org/)
 - [18F's Content Guide](https://content-guide.18f.gov/)
 - [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
-- [#WOCinTech Chat Stock Photos (Free)](https://www.flickr.com/photos/wocintechchat)
 
 ## Paid Resources 💳
 ### Books
