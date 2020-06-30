@@ -36,6 +36,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [The Open Design Kit](http://opendesignkit.org/)
 - [18F's Content Guide](https://content-guide.18f.gov/)
 - [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
+- [Content Strategy Guide by University of Minnesota](https://it.umn.edu/services-technologies/self-help-guides/content-strategy-plan-maintain-website)
 
 ## Paid Resources 💳
 ### Books
