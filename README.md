@@ -27,6 +27,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 
 - [UX Writing Email Course](https://course.uxwritinghub.com/free_course)
 - [Principles of UX Design Course](https://www.invisionapp.com/ecourses/principles-of-ux-design)
+- [Content 101: Information Architecture (article by GatherContent)](https://gathercontent.com/blog/content-101-information-architecture)
 
 ### Style Guides, Images, & More 🎨
 
