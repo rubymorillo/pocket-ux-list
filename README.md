@@ -62,6 +62,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 
 - [Strategic Digital Product Design](https://www.skillshare.com/site/join?teacherRef=8450797&via=teacher-referral&utm_campaign=teacher-referral&utm_source=ShortUrl&utm_medium=teacher-referral&t=Strategic-Digital-Product-Design&sku=2047563500) by Catt Small on Skillshare
 - [Interaction Design Foundation UX Courses](https://www.interaction-design.org/courses) (**Note**: We can both get 3 months free off of an IDF membership [when you sign up using my referral link](https://www.interaction-design.org/invite?r=stephanie-morillo)!)
+- [Berghs School of Communication UX Writing Course](https://www.berghs.se/en/courses/ux-writing/)
 
 ## Tools 🛠
 
