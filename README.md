@@ -22,6 +22,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [Content Templates from GatherContent](https://gathercontent.com/resource/templates)
 - [UI Audit (Free Chapter & Product Strategy Worksheets)](https://uibreakfast.com/audit/) (**Note**: This is gated; scroll to the bottom of the page and submit an email address to receive the free content.)
 - [User Interview Launch Kit (Prep Guide & Tempates) from UserInterviews.com](https://www.userinterviews.com/launch-kit/user-interview)
+- [52 UX Cards to Cognitive Bias](https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/)
 
 ### Continued Learning 👩🏽‍💻
 
