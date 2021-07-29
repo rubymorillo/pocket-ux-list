@@ -32,6 +32,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 
 ### Style Guides, Images, & More 🎨
 
+- [The Ethical Researcher's Checklist by Alba N. Villamil](https://docs.google.com/document/d/1107r9r6d-2-4MwRZX6eiZbMi1LuClOB2sZ88KcQP9ME/edit#)
 - [#WOCinTech Chat Stock Photos (Free)](https://www.flickr.com/photos/wocintechchat)
 - [Black Illustrations Image Pack (Free or Paid)](https://www.blackillustrations.com)
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) by W3C
