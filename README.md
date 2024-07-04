@@ -23,6 +23,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [UI Audit (Free Chapter & Product Strategy Worksheets)](https://uibreakfast.com/audit/) (**Note**: This is gated; scroll to the bottom of the page and submit an email address to receive the free content.)
 - [User Interview Launch Kit (Prep Guide & Tempates) from UserInterviews.com](https://www.userinterviews.com/launch-kit/user-interview)
 - [52 UX Cards to Discover Cognitive Bias](https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/)
+- [UX Research Templates](https://www.hubble.team/templates)
 
 ### Continued Learning 👩🏽‍💻
 
@@ -40,6 +41,10 @@ A small, but formidable, list of UX-related resources for people interested in l
 - [18F's Content Guide](https://content-guide.18f.gov/)
 - [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [Content Strategy Guide by University of Minnesota](https://it.umn.edu/services-technologies/self-help-guides/content-strategy-plan-maintain-website)
+- [A comprehensive guide for UX Researchers](https://www.hubble.team/guide/guide-for-ux-researchers)
+- [Best usability testing tools](https://www.hubble.team/blog/usability-testing-tools)
+- [Best UX analytics tools](https://www.hubble.team/blog/the-best-ux-analytics-tools-in-2024)
+- [Creating effective screeners](https://www.hubble.team/blog/creating-effective-screener-surveys-for-quality-participants)
 
 ## Paid Resources 💳
 ### Books
@@ -69,6 +74,7 @@ A small, but formidable, list of UX-related resources for people interested in l
 ## Tools 🛠
 
 - [LucidChart](https://www.lucidchart.com/pages/home) for sitemaps and mind mapping
+- [Hubble](https://www.hubble.team) for unified user research and usability testing
 - [Optimal Workshop](https://www.optimalworkshop.com/) for unmoderated IA testing
 - [Airtable](https://airtable.com/) for survey forms, content audits, editorial calendars, and yes—more sitemaps
 - [Validately](https://validately.com/) for moderated _and_ unmoderated testing
